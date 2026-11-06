@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+      <path d="M35 15 C35 15 45 12 55 15 C55 32 45 44 45 44 C45 44 35 32 35 15 Z" fill="#ef4444" stroke="#ffffff" stroke-width="1.5"/>
+      <circle cx="45" cy="27" r="4" fill="#ffffff"/>
+      <text x="68" y="31" fill="#ffffff" font-family="'Inter', sans-serif" font-weight="700" font-size="13" letter-spacing="0.5">ПРАВИТЕЛЬСТВО</text>
+      <text x="68" y="44" fill="#ef4444" font-family="'Inter', sans-serif" font-weight="800" font-size="13" letter-spacing="1">МОСКВЫ</text>
+    </svg>

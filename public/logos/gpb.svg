@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+      <circle cx="45" cy="30" r="16" stroke="#3b82f6" stroke-width="3" fill="none"/>
+      <path d="M36 30 C36 24 54 24 54 30 C54 36 36 36 36 30" fill="#3b82f6"/>
+      <text x="75" y="37" fill="#ffffff" font-family="'Inter', sans-serif" font-weight="700" font-size="17" letter-spacing="0.5">ГАЗПРОМБАНК</text>
+    </svg>
